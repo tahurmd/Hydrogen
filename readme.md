@@ -123,18 +123,28 @@ const liquidElements = await searchElements({ state: 'liquid' });
 | `boilingPoint` | Number | Elements with boiling point > value (K) | `?boilingPoint=373` |
 | `density` | Number | Elements with density > value (g/cm³) | `?density=5` |
 
-### Valid Categories
+---
 
-- `alkali-metal`
-- `alkaline-earth-metal`
-- `transition-metal`
-- `post-transition-metal`
-- `metalloid`
-- `reactive-nonmetal`
-- `diatomic-nonmetal`
-- `noble-gas`
-- `lanthanide`
-- `actinide`
+## Filtering: Valid Categories
+
+Categories are always lowercase and use dashes for multi-word groups.
+
+| Category                 | Description                        |
+|--------------------------|------------------------------------|
+| alkali-metal             | Group 1 (Li, Na, K, Rb, Cs, Fr)    |
+| alkaline-earth-metal     | Group 2 (Be, Mg, Ca, Sr, Ba, Ra)   |
+| transition-metal         | Groups 3–12 (periodic block d/f)   |
+| post-transition-metal    | Certain metals just right of d-block|
+| metalloid               | B, Si, Ge, As, Sb, Te, Po          |
+| nonmetal                 | H, C, N, O, P, S, Se               |
+| halogen                  | Group 17 (F, Cl, Br, I, At, Ts)    |
+| noble-gas                | Group 18 (He, Ne, Ar, Kr, Xe, Rn, Og) |
+| lanthanide               | Elements 57–71                     |
+| actinide                 | Elements 89–103                    |
+| unknown                  | Undiscovered or unclassified       |
+
+**Note:**  
+Some superheavy elements (atomic number ≥109) may be labeled as `"unknown"` if not definitively classified.
 
 ---
 
