@@ -2,7 +2,7 @@
   "atomicNumber": 2,
   "symbol": "He",
   "name": "Helium",
-  "category": "noble gas",
+  "category": "noble-gas",
   "period": 1,
   "block": "s",
   "atomicMass": 4.0026,

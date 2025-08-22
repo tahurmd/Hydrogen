@@ -2,7 +2,7 @@
   "atomicNumber": 10,
   "symbol": "Ne",
   "name": "Neon",
-  "category": "noble gas",
+  "category": "noble-gas",
   "period": 2,
   "block": "p",
   "atomicMass": 20.18,
