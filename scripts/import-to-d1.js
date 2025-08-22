@@ -29,6 +29,9 @@ async function main() {
     const boilingPointUnit = element.boilingPoint?.unit;
     const ionizationEnergyValue = element.ionizationEnergy?.value;
     const ionizationEnergyUnit = element.ionizationEnergy?.unit;
+    const normalizedCategory = element.category
+  ? element.category.replace(/\s+/g, '-').toLowerCase()
+  : '';
 
     // Updated INSERT to match your actual schema structure
     sql.push(`
@@ -41,7 +44,7 @@ INSERT INTO elements (
   ${element.atomicNumber},
   '${safe(element.symbol)}',
   '${safe(element.name)}',
-  '${safe(element.category)}',
+  '${safe(normalizedCategory)}',
 ${safeNum(element.groupNumber)},          
   ${element.period},
   '${safe(element.block)}',

@@ -47,10 +47,8 @@ export default {
         
         // Category filter
         if (searchParams.has('category')) {
-          const categoryParam = searchParams.get('category');
-          const categoryValue = categoryParam.replace(/-/g, ' ');
           filters.where.push('LOWER(category) = LOWER(?)');
-          filters.params.push(categoryValue);
+          filters.params.push(searchParams.get('category'));
         }
         
         // Physical state filter
