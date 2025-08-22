@@ -1,0 +1,34 @@
+{
+  "atomicNumber": 99,
+  "symbol": "Es",
+  "name": "Einsteinium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 252,
+  "standardState": "solid",
+  "density": {
+    "value": 8.84,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1133,
+    "unit": "K"
+  },
+  "boilingPoint": null,
+  "electronegativity": 1.3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f11",
+  "discoveredBy": "Albert Ghiorso, et al.",
+  "discoveryYear": 1952,
+  "summary": "Einsteinium is a synthetic, radioactive metal, discovered in the debris of the first hydrogen bomb test.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": null
+}

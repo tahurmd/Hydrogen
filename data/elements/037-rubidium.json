@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 37,
+  "symbol": "Rb",
+  "name": "Rubidium",
+  "category": "alkali metal",
+  "period": 5,
+  "block": "s",
+  "atomicMass": 85.468,
+  "standardState": "solid",
+  "density": {
+    "value": 1.532,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 312.46,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 961,
+    "unit": "K"
+  },
+  "electronegativity": 0.82,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
+  "discoveredBy": "Robert Bunsen, Gustav Kirchhoff",
+  "discoveryYear": 1861,
+  "summary": "Rubidium is a soft, silvery metal, used in specialty glasses, research, and atomic clocks.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "atomic clocks",
+    "specialty glass",
+    "research"
+  ],
+  "sources": [
+    "lepidolite",
+    "pollucite"
+  ],
+  "groupNumber": 1
+}

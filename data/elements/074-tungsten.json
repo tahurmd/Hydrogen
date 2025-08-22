@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 74,
+  "symbol": "W",
+  "name": "Tungsten",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 183.84,
+  "standardState": "solid",
+  "density": {
+    "value": 19.25,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 3695,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5828,
+    "unit": "K"
+  },
+  "electronegativity": 2.36,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4",
+  "discoveredBy": "Juan José Elhuyar, Fausto Elhuyar",
+  "discoveryYear": 1783,
+  "summary": "Tungsten has the highest melting point of all metals, used in filaments, x-ray tubes, and cutting tools.",
+  "oxidationStates": [
+    6,
+    4
+  ],
+  "uses": [
+    "lightbulb filaments",
+    "cutting tools",
+    "x-ray tubes"
+  ],
+  "sources": [
+    "wolframite",
+    "scheelite"
+  ],
+  "groupNumber": 6
+}

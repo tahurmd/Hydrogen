@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 28,
+  "symbol": "Ni",
+  "name": "Nickel",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 58.693,
+  "standardState": "solid",
+  "density": {
+    "value": 8.912,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1728,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3186,
+    "unit": "K"
+  },
+  "electronegativity": 1.91,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d8",
+  "discoveredBy": "Axel Fredrik Cronstedt",
+  "discoveryYear": 1751,
+  "summary": "Nickel is a silvery-white metal, valued for its resistance to corrosion, used in stainless steel and batteries.",
+  "oxidationStates": [
+    2,
+    3
+  ],
+  "uses": [
+    "stainless steel",
+    "batteries",
+    "coins"
+  ],
+  "sources": [
+    "pentlandite",
+    "garnierite"
+  ],
+  "groupNumber": 10
+}

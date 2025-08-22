@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 94,
+  "symbol": "Pu",
+  "name": "Plutonium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 244,
+  "standardState": "solid",
+  "density": {
+    "value": 19.86,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 912.5,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3505,
+    "unit": "K"
+  },
+  "electronegativity": 1.28,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6",
+  "discoveredBy": "Glenn T. Seaborg, Edwin McMillan, Joseph W. Kennedy, Arthur C. Wahl",
+  "discoveryYear": 1940,
+  "summary": "Plutonium is a highly radioactive, silvery metal, key for nuclear weapons and as a fuel in nuclear reactors.",
+  "oxidationStates": [
+    6,
+    5,
+    4,
+    3
+  ],
+  "uses": [
+    "nuclear weapons",
+    "nuclear fuel"
+  ],
+  "sources": [
+    "nuclear reactors"
+  ],
+  "groupNumber": null
+}

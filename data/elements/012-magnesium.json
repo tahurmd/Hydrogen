@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 12,
+  "symbol": "Mg",
+  "name": "Magnesium",
+  "category": "alkaline earth metal",
+  "period": 3,
+  "block": "s",
+  "atomicMass": 24.305,
+  "standardState": "solid",
+  "density": {
+    "value": 1.738,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 923,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1363,
+    "unit": "K"
+  },
+  "electronegativity": 1.31,
+  "electronConfiguration": "1s2 2s2 2p6 3s2",
+  "discoveredBy": "Joseph Black",
+  "discoveryYear": 1755,
+  "summary": "Magnesium is a light, moderately hard metal used in lightweight alloys, fireworks, and as a dietary supplement.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "alloys",
+    "fireworks",
+    "dietary supplements"
+  ],
+  "sources": [
+    "magnesite",
+    "dolomite",
+    "sea water"
+  ],
+  "groupNumber": 2
+}

@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 84,
+  "symbol": "Po",
+  "name": "Polonium",
+  "category": "post-transition metal",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 209,
+  "standardState": "solid",
+  "density": {
+    "value": 9.196,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 527,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1235,
+    "unit": "K"
+  },
+  "electronegativity": 2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4",
+  "discoveredBy": "Marie Curie, Pierre Curie",
+  "discoveryYear": 1898,
+  "summary": "Polonium is a rare, highly radioactive metal, used in antistatic devices and as a heat source in space probes.",
+  "oxidationStates": [
+    2,
+    4
+  ],
+  "uses": [
+    "antistatic devices",
+    "heat sources (space probes)"
+  ],
+  "sources": [
+    "uranium ores"
+  ],
+  "groupNumber": 16
+}

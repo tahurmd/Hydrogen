@@ -1,0 +1,32 @@
+{
+  "atomicNumber": 87,
+  "symbol": "Fr",
+  "name": "Francium",
+  "category": "alkali metal",
+  "period": 7,
+  "block": "s",
+  "atomicMass": 223,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": {
+    "value": 300,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 950,
+    "unit": "K"
+  },
+  "electronegativity": 0.7,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
+  "discoveredBy": "Marguerite Perey",
+  "discoveryYear": 1939,
+  "summary": "Francium is an extremely rare, highly radioactive alkali metal. It is the least stable of the first 101 elements and has no commercial uses.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [],
+  "sources": [
+    "decay of actinium-227"
+  ],
+  "groupNumber": 1
+}

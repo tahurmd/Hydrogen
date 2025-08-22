@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 3,
+  "symbol": "Li",
+  "name": "Lithium",
+  "category": "alkali metal",
+  "period": 2,
+  "block": "s",
+  "atomicMass": 6.94,
+  "standardState": "solid",
+  "density": {
+    "value": 0.534,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 453.69,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1603,
+    "unit": "K"
+  },
+  "electronegativity": 0.98,
+  "electronConfiguration": "1s2 2s1",
+  "discoveredBy": "Johan August Arfvedson",
+  "discoveryYear": 1817,
+  "summary": "Lithium is a soft, silvery-white alkali metal, used primarily in rechargeable batteries and mood-stabilizing drugs.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "rechargeable batteries",
+    "mood stabilizers",
+    "heat-resistant glass"
+  ],
+  "sources": [
+    "spodumene",
+    "lithium brine"
+  ],
+  "groupNumber": 1
+}

@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 75,
+  "symbol": "Re",
+  "name": "Rhenium",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 186.21,
+  "standardState": "solid",
+  "density": {
+    "value": 21.02,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 3459,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5869,
+    "unit": "K"
+  },
+  "electronegativity": 1.9,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5",
+  "discoveredBy": "Ida Tacke, Walter Noddack, Otto Berg",
+  "discoveryYear": 1925,
+  "summary": "Rhenium is a heavy, third-row transition metal, used in superalloys for jet engines and as a catalyst.",
+  "oxidationStates": [
+    7,
+    6,
+    4
+  ],
+  "uses": [
+    "superalloys (jet engines)",
+    "catalysts",
+    "thermocouples"
+  ],
+  "sources": [
+    "molybdenite (as a trace element)"
+  ],
+  "groupNumber": 7
+}

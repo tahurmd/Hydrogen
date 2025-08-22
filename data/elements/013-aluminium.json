@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 13,
+  "symbol": "Al",
+  "name": "Aluminium",
+  "category": "post-transition metal",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 26.982,
+  "standardState": "solid",
+  "density": {
+    "value": 2.7,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 933.47,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2792,
+    "unit": "K"
+  },
+  "electronegativity": 1.61,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p1",
+  "discoveredBy": "Hans Christian Ørsted",
+  "discoveryYear": 1825,
+  "summary": "Aluminium is a lightweight, silvery metal widely used in foils, cans, aircraft parts, and construction materials.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "aircraft parts",
+    "food cans",
+    "construction",
+    "foil"
+  ],
+  "sources": [
+    "bauxite ore",
+    "cryolite"
+  ],
+  "groupNumber": 13
+}

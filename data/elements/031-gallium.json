@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 31,
+  "symbol": "Ga",
+  "name": "Gallium",
+  "category": "post-transition metal",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 69.723,
+  "standardState": "solid",
+  "density": {
+    "value": 5.91,
+    "conditions": "30°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 302.9146,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2477,
+    "unit": "K"
+  },
+  "electronegativity": 1.81,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1",
+  "discoveredBy": "Paul-Émile Lecoq de Boisbaudran",
+  "discoveryYear": 1875,
+  "summary": "Gallium is a soft metal with a low melting point, used in semiconductors and LEDs.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "semiconductors",
+    "LEDs",
+    "thermometers"
+  ],
+  "sources": [
+    "bauxite",
+    "zinc ores"
+  ],
+  "groupNumber": 13
+}

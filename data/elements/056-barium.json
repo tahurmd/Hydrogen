@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 56,
+  "symbol": "Ba",
+  "name": "Barium",
+  "category": "alkaline earth metal",
+  "period": 6,
+  "block": "s",
+  "atomicMass": 137.33,
+  "standardState": "solid",
+  "density": {
+    "value": 3.51,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1000,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2170,
+    "unit": "K"
+  },
+  "electronegativity": 0.89,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "discoveryYear": 1772,
+  "summary": "Barium is a soft, silvery metal, used in contrast agents for X-rays and in fireworks for green coloring.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "contrast agents",
+    "fireworks",
+    "ceramics"
+  ],
+  "sources": [
+    "barite",
+    "withernite"
+  ],
+  "groupNumber": 2
+}

@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 36,
+  "symbol": "Kr",
+  "name": "Krypton",
+  "category": "noble gas",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 83.798,
+  "standardState": "gas",
+  "density": {
+    "value": 3.749,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 115.79,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 119.93,
+    "unit": "K"
+  },
+  "electronegativity": 3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6",
+  "discoveredBy": "William Ramsay, Morris Travers",
+  "discoveryYear": 1898,
+  "summary": "Krypton is a colorless, odorless, inert noble gas, used in high-performance lighting and photography flashes.",
+  "oxidationStates": [
+    0
+  ],
+  "uses": [
+    "lighting",
+    "photographic flashes",
+    "neon signs"
+  ],
+  "sources": [
+    "fractional distillation of air"
+  ],
+  "groupNumber": 18
+}

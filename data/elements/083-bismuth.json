@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 83,
+  "symbol": "Bi",
+  "name": "Bismuth",
+  "category": "post-transition metal",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 208.98,
+  "standardState": "solid",
+  "density": {
+    "value": 9.78,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 544.7,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1837,
+    "unit": "K"
+  },
+  "electronegativity": 2.02,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p3",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Bismuth is a brittle metal with a silvery-white appearance and pink tinge, used in cosmetics, medicines, and low-melt alloys.",
+  "oxidationStates": [
+    3,
+    5
+  ],
+  "uses": [
+    "cosmetics",
+    "medicines",
+    "fusible alloys"
+  ],
+  "sources": [
+    "bismuthinite"
+  ],
+  "groupNumber": 15
+}

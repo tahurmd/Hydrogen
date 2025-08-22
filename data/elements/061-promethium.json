@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 61,
+  "symbol": "Pm",
+  "name": "Promethium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 145,
+  "standardState": "solid",
+  "density": {
+    "value": 7.26,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1315,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3273,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5",
+  "discoveredBy": "Jacob A. Marinsky, Lawrence E. Glendenin, Charles D. Coryell",
+  "discoveryYear": 1945,
+  "summary": "Promethium is a radioactive rare-earth metal, used in luminous paint and nuclear batteries.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "nuclear batteries",
+    "luminous paint"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": null
+}

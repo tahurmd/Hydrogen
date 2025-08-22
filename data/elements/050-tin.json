@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 50,
+  "symbol": "Sn",
+  "name": "Tin",
+  "category": "post-transition metal",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 118.71,
+  "standardState": "solid",
+  "density": {
+    "value": 7.287,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 505.08,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2875,
+    "unit": "K"
+  },
+  "electronegativity": 1.96,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Tin is a silvery, soft metal, commonly used in solder, tin plating, and alloys such as bronze.",
+  "oxidationStates": [
+    4,
+    2
+  ],
+  "uses": [
+    "solder",
+    "tin plating",
+    "bronze"
+  ],
+  "sources": [
+    "cassiterite",
+    "polymetallic ores"
+  ],
+  "groupNumber": 14
+}

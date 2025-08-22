@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 73,
+  "symbol": "Ta",
+  "name": "Tantalum",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 180.95,
+  "standardState": "solid",
+  "density": {
+    "value": 16.69,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 3290,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5731,
+    "unit": "K"
+  },
+  "electronegativity": 1.5,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3",
+  "discoveredBy": "Anders Gustaf Ekeberg",
+  "discoveryYear": 1802,
+  "summary": "Tantalum is a hard, blue-gray metal, very resistant to corrosion, used in electronic components and surgical equipment.",
+  "oxidationStates": [
+    5
+  ],
+  "uses": [
+    "capacitors",
+    "surgical equipment",
+    "chemical reactors"
+  ],
+  "sources": [
+    "tantalite",
+    "columbite"
+  ],
+  "groupNumber": 5
+}

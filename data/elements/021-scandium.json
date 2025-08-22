@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 21,
+  "symbol": "Sc",
+  "name": "Scandium",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 44.956,
+  "standardState": "solid",
+  "density": {
+    "value": 2.985,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1814,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3109,
+    "unit": "K"
+  },
+  "electronegativity": 1.36,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d1",
+  "discoveredBy": "Lars Fredrik Nilson",
+  "discoveryYear": 1879,
+  "summary": "Scandium is a soft, silvery metal used in aerospace alloys and high-intensity lamps.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "aerospace alloys",
+    "sports equipment",
+    "lighting"
+  ],
+  "sources": [
+    "thortveitite",
+    "uraninite"
+  ],
+  "groupNumber": 3
+}

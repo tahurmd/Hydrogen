@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 5,
+  "symbol": "B",
+  "name": "Boron",
+  "category": "metalloid",
+  "period": 2,
+  "block": "p",
+  "atomicMass": 10.81,
+  "standardState": "solid",
+  "density": {
+    "value": 2.34,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2349,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4200,
+    "unit": "K"
+  },
+  "electronegativity": 2.04,
+  "electronConfiguration": "1s2 2s2 2p1",
+  "discoveredBy": "Joseph Louis Gay-Lussac and Louis Jacques Thénard",
+  "discoveryYear": 1808,
+  "summary": "Boron is a metalloid element that is essential for plant growth and is used in glass, ceramics, and as a neutron absorber.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "borosilicate glass",
+    "ceramics",
+    "neutron absorber",
+    "fertilizers"
+  ],
+  "sources": [
+    "borax",
+    "kernite",
+    "ulexite"
+  ],
+  "groupNumber": 13
+}

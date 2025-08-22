@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 32,
+  "symbol": "Ge",
+  "name": "Germanium",
+  "category": "metalloid",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 72.63,
+  "standardState": "solid",
+  "density": {
+    "value": 5.323,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1211.4,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3106,
+    "unit": "K"
+  },
+  "electronegativity": 2.01,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
+  "discoveredBy": "Clemens Winkler",
+  "discoveryYear": 1886,
+  "summary": "Germanium is a lustrous, brittle metalloid, used in fiber optics, infrared optics, and semiconductors.",
+  "oxidationStates": [
+    4,
+    2
+  ],
+  "uses": [
+    "fiber optics",
+    "infrared optics",
+    "semiconductors"
+  ],
+  "sources": [
+    "argyrodite",
+    "germanite"
+  ],
+  "groupNumber": 14
+}

@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 42,
+  "symbol": "Mo",
+  "name": "Molybdenum",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 95.95,
+  "standardState": "solid",
+  "density": {
+    "value": 10.28,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2896,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4912,
+    "unit": "K"
+  },
+  "electronegativity": 2.16,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "discoveryYear": 1778,
+  "summary": "Molybdenum is a silvery metal essential in steel alloys and enzymes in biology.",
+  "oxidationStates": [
+    6,
+    4
+  ],
+  "uses": [
+    "steel alloys",
+    "lubricants",
+    "catalysts"
+  ],
+  "sources": [
+    "molybdenite",
+    "wulfenite"
+  ],
+  "groupNumber": 6
+}

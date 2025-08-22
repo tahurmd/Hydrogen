@@ -1,0 +1,26 @@
+{
+  "atomicNumber": 117,
+  "symbol": "Ts",
+  "name": "Tennessine",
+  "category": "unknown, probably halogen",
+  "period": 7,
+  "block": "p",
+  "atomicMass": 294,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p5",
+  "discoveredBy": "Joint Institute for Nuclear Research, Oak Ridge National Laboratory, Lawrence Livermore National Laboratory, Vanderbilt University",
+  "discoveryYear": 2010,
+  "summary": "Tennessine is an extremely radioactive, synthetic element, produced in minute amounts and used only for research.",
+  "oxidationStates": [],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": 17
+}

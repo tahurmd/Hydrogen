@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 72,
+  "symbol": "Hf",
+  "name": "Hafnium",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 178.49,
+  "standardState": "solid",
+  "density": {
+    "value": 13.31,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2506,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4876,
+    "unit": "K"
+  },
+  "electronegativity": 1.3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d2",
+  "discoveredBy": "Dirk Coster, George Charles von Hevesy",
+  "discoveryYear": 1923,
+  "summary": "Hafnium is a lustrous, silvery-gray, strong transition metal used in nuclear control rods and high-temperature alloys.",
+  "oxidationStates": [
+    4
+  ],
+  "uses": [
+    "nuclear control rods",
+    "high-temperature alloys",
+    "microchips"
+  ],
+  "sources": [
+    "zircon"
+  ],
+  "groupNumber": 4
+}

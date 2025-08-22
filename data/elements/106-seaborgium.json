@@ -1,0 +1,28 @@
+{
+  "atomicNumber": 106,
+  "symbol": "Sg",
+  "name": "Seaborgium",
+  "category": "transition metal",
+  "period": 7,
+  "block": "d",
+  "atomicMass": 271,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4",
+  "discoveredBy": "Joint Institute for Nuclear Research and Lawrence Berkeley National Laboratory",
+  "discoveryYear": 1974,
+  "summary": "Seaborgium is a synthetic, radioactive metal, produced only in particle accelerators for scientific study.",
+  "oxidationStates": [
+    6
+  ],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": 6
+}

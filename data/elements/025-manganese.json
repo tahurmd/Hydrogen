@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 25,
+  "symbol": "Mn",
+  "name": "Manganese",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 54.938,
+  "standardState": "solid",
+  "density": {
+    "value": 7.44,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1519,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2334,
+    "unit": "K"
+  },
+  "electronegativity": 1.55,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d5",
+  "discoveredBy": "Johan Gottlieb Gahn",
+  "discoveryYear": 1774,
+  "summary": "Manganese is a hard, brittle metal used in steelmaking, batteries, and ceramics.",
+  "oxidationStates": [
+    7,
+    4,
+    2
+  ],
+  "uses": [
+    "steel production",
+    "batteries",
+    "ceramics"
+  ],
+  "sources": [
+    "pyrolusite",
+    "manganite"
+  ],
+  "groupNumber": 7
+}

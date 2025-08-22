@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 14,
+  "symbol": "Si",
+  "name": "Silicon",
+  "category": "metalloid",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 28.085,
+  "standardState": "solid",
+  "density": {
+    "value": 2.3296,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1687,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3538,
+    "unit": "K"
+  },
+  "electronegativity": 1.9,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p2",
+  "discoveredBy": "Jöns Jacob Berzelius",
+  "discoveryYear": 1824,
+  "summary": "Silicon is a metalloid essential to modern electronics, used in semiconductors, glass, and solar cells.",
+  "oxidationStates": [
+    4,
+    -4
+  ],
+  "uses": [
+    "semiconductors",
+    "solar cells",
+    "glass",
+    "concrete"
+  ],
+  "sources": [
+    "sand",
+    "quartz"
+  ],
+  "groupNumber": 14
+}

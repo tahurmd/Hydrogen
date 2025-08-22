@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 90,
+  "symbol": "Th",
+  "name": "Thorium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 232.04,
+  "standardState": "solid",
+  "density": {
+    "value": 11.72,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2023,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5061,
+    "unit": "K"
+  },
+  "electronegativity": 1.3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d2",
+  "discoveredBy": "Jöns Jacob Berzelius",
+  "discoveryYear": 1828,
+  "summary": "Thorium is a weakly radioactive metal, used as a nuclear fuel and in high-quality lenses and mantles.",
+  "oxidationStates": [
+    4
+  ],
+  "uses": [
+    "nuclear fuel",
+    "high-quality optical lenses"
+  ],
+  "sources": [
+    "monazite"
+  ],
+  "groupNumber": null
+}

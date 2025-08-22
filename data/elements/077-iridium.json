@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 77,
+  "symbol": "Ir",
+  "name": "Iridium",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 192.22,
+  "standardState": "solid",
+  "density": {
+    "value": 22.56,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2719,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4701,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d7",
+  "discoveredBy": "Smithson Tennant",
+  "discoveryYear": 1803,
+  "summary": "Iridium is a very dense, corrosion-resistant metal, used in spark plugs, electrical contacts, and jewelry.",
+  "oxidationStates": [
+    3,
+    4
+  ],
+  "uses": [
+    "spark plugs",
+    "electrical contacts",
+    "jewelry"
+  ],
+  "sources": [
+    "platinum ores"
+  ],
+  "groupNumber": 9
+}

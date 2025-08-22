@@ -1,0 +1,50 @@
+{
+  "name": "hydrogen-periodic-api",
+  "version": "1.0.0",
+  "description": "Open-source periodic table API running on Cloudflare D1 and Workers",
+  "type": "module",
+  "main": "src/worker.js",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "import-d1": "node scripts/import-to-d1.js",
+    "schema:create": "wrangler d1 execute hydrogen-db --file=scripts/create-schema.sql",
+    "deploy-data": "wrangler d1 execute hydrogen-db --file=import.sql",
+    "update-data": "npm run validate && npm run import-d1 && npm run deploy-data",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:info": "wrangler d1 info hydrogen-db",
+    "db:list": "wrangler d1 list",
+    "logs": "wrangler tail",
+    "clean": "rm -f import.sql"
+  },
+  "keywords": [
+    "periodic-table",
+    "cloudflare",
+    "api",
+    "sqlite",
+    "chemistry",
+    "d1",
+    "workers",
+    "elements",
+    "open-source"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.17.1"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/hydrogen-periodic-api.git"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/hydrogen-periodic-api#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/hydrogen-periodic-api/issues"
+  },
+  "author": "tahur"
+}

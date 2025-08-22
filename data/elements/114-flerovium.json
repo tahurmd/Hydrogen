@@ -1,0 +1,26 @@
+{
+  "atomicNumber": 114,
+  "symbol": "Fl",
+  "name": "Flerovium",
+  "category": "unknown, probably post-transition metal",
+  "period": 7,
+  "block": "p",
+  "atomicMass": 289,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p2",
+  "discoveredBy": "Joint Institute for Nuclear Research, Lawrence Livermore National Laboratory",
+  "discoveryYear": 1998,
+  "summary": "Flerovium is a synthetic, superheavy, radioactive element, produced only for research purposes in atom-scale amounts.",
+  "oxidationStates": [],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": 14
+}

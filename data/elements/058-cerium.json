@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 58,
+  "symbol": "Ce",
+  "name": "Cerium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 140.12,
+  "standardState": "solid",
+  "density": {
+    "value": 6.77,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1068,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3716,
+    "unit": "K"
+  },
+  "electronegativity": 1.12,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f2",
+  "discoveredBy": "Jöns Jacob Berzelius, Wilhelm Hisinger",
+  "discoveryYear": 1803,
+  "summary": "Cerium is a soft, silvery metal, the most abundant rare earth, used in catalytic converters and glass polishing powders.",
+  "oxidationStates": [
+    4,
+    3
+  ],
+  "uses": [
+    "catalytic converters",
+    "glass polishing",
+    "lighter flints"
+  ],
+  "sources": [
+    "bastnäsite",
+    "monazite"
+  ],
+  "groupNumber": null
+}

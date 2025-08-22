@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 91,
+  "symbol": "Pa",
+  "name": "Protactinium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 231.04,
+  "standardState": "solid",
+  "density": {
+    "value": 15.4,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1841,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4300,
+    "unit": "K"
+  },
+  "electronegativity": 1.5,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f2 6d1",
+  "discoveredBy": "Oswald Helmuth Göhring, Kasimir Fajans",
+  "discoveryYear": 1913,
+  "summary": "Protactinium is a dense, highly radioactive metal, used mainly for research due to its scarcity and radioactivity.",
+  "oxidationStates": [
+    5,
+    4
+  ],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "uranium ores"
+  ],
+  "groupNumber": null
+}

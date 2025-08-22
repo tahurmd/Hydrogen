@@ -1,0 +1,43 @@
+{
+  "atomicNumber": 53,
+  "symbol": "I",
+  "name": "Iodine",
+  "category": "halogen",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 126.9,
+  "standardState": "solid",
+  "density": {
+    "value": 4.93,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 386.85,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 457.4,
+    "unit": "K"
+  },
+  "electronegativity": 2.66,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5",
+  "discoveredBy": "Bernard Courtois",
+  "discoveryYear": 1811,
+  "summary": "Iodine is a dark, lustrous solid that sublimes to a violet gas, essential for thyroid health and used as an antiseptic.",
+  "oxidationStates": [
+    7,
+    5,
+    1,
+    -1
+  ],
+  "uses": [
+    "antiseptics",
+    "iodized salt",
+    "x-ray contrast agents"
+  ],
+  "sources": [
+    "seaweed",
+    "brine"
+  ],
+  "groupNumber": 17
+}

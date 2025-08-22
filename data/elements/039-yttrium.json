@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 39,
+  "symbol": "Y",
+  "name": "Yttrium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 88.906,
+  "standardState": "solid",
+  "density": {
+    "value": 4.472,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1799,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3336,
+    "unit": "K"
+  },
+  "electronegativity": 1.22,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
+  "discoveredBy": "Johan Gadolin",
+  "discoveryYear": 1794,
+  "summary": "Yttrium is a silvery-metallic transition metal used in LEDs, phosphors, and superconductors.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "LEDs",
+    "phosphors",
+    "superconductors"
+  ],
+  "sources": [
+    "xenotime",
+    "monazite"
+  ],
+  "groupNumber": 3
+}

@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 52,
+  "symbol": "Te",
+  "name": "Tellurium",
+  "category": "metalloid",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 127.6,
+  "standardState": "solid",
+  "density": {
+    "value": 6.24,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 722.66,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1261,
+    "unit": "K"
+  },
+  "electronegativity": 2.1,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4",
+  "discoveredBy": "Franz-Joseph Müller von Reichenstein",
+  "discoveryYear": 1782,
+  "summary": "Tellurium is a brittle, mildly toxic metalloid used in alloys, semiconductors, and as a vulcanizing agent.",
+  "oxidationStates": [
+    6,
+    4,
+    -2
+  ],
+  "uses": [
+    "semiconductors",
+    "solar panels",
+    "vulcanization of rubber"
+  ],
+  "sources": [
+    "gold tellurides",
+    "copper ores"
+  ],
+  "groupNumber": 16
+}

@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 70,
+  "symbol": "Yb",
+  "name": "Ytterbium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 173.05,
+  "standardState": "solid",
+  "density": {
+    "value": 6.9,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1092,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1469,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14",
+  "discoveredBy": "Jean Charles Galissard de Marignac",
+  "discoveryYear": 1878,
+  "summary": "Ytterbium is a soft, ductile rare-earth metal, used in lasers, atomic clocks, and as a doping agent for fiber optics.",
+  "oxidationStates": [
+    3,
+    2
+  ],
+  "uses": [
+    "lasers",
+    "atomic clocks",
+    "fiber optics"
+  ],
+  "sources": [
+    "monazite",
+    "xenotime"
+  ],
+  "groupNumber": null
+}

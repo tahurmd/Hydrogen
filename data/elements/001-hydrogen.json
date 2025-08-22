@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 1,
+  "symbol": "H",
+  "name": "Hydrogen",
+  "category": "diatomic nonmetal",
+  "period": 1,
+  "block": "s",
+  "atomicMass": 1.008,
+  "standardState": "gas",
+  "density": {
+    "value": 0.08988,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 13.99,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 20.271,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s1",
+  "discoveredBy": "Henry Cavendish",
+  "discoveryYear": 1766,
+  "summary": "Hydrogen is a colorless, odorless, tasteless, non-toxic, highly combustible diatomic gas and the most abundant element in the universe.",
+  "oxidationStates": [
+    1,
+    -1
+  ],
+  "uses": [
+    "ammonia synthesis",
+    "rocket fuel",
+    "petroleum refining"
+  ],
+  "sources": [
+    "water electrolysis",
+    "natural gas reforming"
+  ],
+  "groupNumber": 1
+}

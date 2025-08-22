@@ -1,0 +1,37 @@
+{
+  "atomicNumber": 86,
+  "symbol": "Rn",
+  "name": "Radon",
+  "category": "noble gas",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 222,
+  "standardState": "gas",
+  "density": {
+    "value": 9.73,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 202,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 211.3,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6",
+  "discoveredBy": "Friedrich Ernst Dorn",
+  "discoveryYear": 1900,
+  "summary": "Radon is a colorless, radioactive noble gas formed from the decay of uranium, hazardous to health.",
+  "oxidationStates": [
+    0
+  ],
+  "uses": [
+    "cancer treatment (historical)"
+  ],
+  "sources": [
+    "decay of radium, uranium ores"
+  ],
+  "groupNumber": 18
+}

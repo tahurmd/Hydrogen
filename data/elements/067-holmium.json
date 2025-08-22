@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 67,
+  "symbol": "Ho",
+  "name": "Holmium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 164.93,
+  "standardState": "solid",
+  "density": {
+    "value": 8.79,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1734,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2993,
+    "unit": "K"
+  },
+  "electronegativity": 1.23,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11",
+  "discoveredBy": "Per Teodor Cleve",
+  "discoveryYear": 1878,
+  "summary": "Holmium is a relatively soft and malleable rare-earth metal, used in magnets, lasers, and nuclear reactors.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "magnets",
+    "lasers",
+    "nuclear control rods"
+  ],
+  "sources": [
+    "monazite",
+    "xenotime"
+  ],
+  "groupNumber": null
+}

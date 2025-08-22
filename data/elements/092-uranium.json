@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 92,
+  "symbol": "U",
+  "name": "Uranium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 238.03,
+  "standardState": "solid",
+  "density": {
+    "value": 18.95,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1405.3,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4404,
+    "unit": "K"
+  },
+  "electronegativity": 1.38,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f3",
+  "discoveredBy": "Martin Heinrich Klaproth",
+  "discoveryYear": 1789,
+  "summary": "Uranium is a dense, silvery radioactive metal, used as a primary fuel for nuclear power and weapons.",
+  "oxidationStates": [
+    6,
+    4,
+    3
+  ],
+  "uses": [
+    "nuclear fuel",
+    "radiation shielding"
+  ],
+  "sources": [
+    "uraninite"
+  ],
+  "groupNumber": null
+}

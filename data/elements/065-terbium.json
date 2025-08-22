@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 65,
+  "symbol": "Tb",
+  "name": "Terbium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 158.93,
+  "standardState": "solid",
+  "density": {
+    "value": 8.23,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1629,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3396,
+    "unit": "K"
+  },
+  "electronegativity": 1.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9",
+  "discoveredBy": "Carl Gustaf Mosander",
+  "discoveryYear": 1843,
+  "summary": "Terbium is a silvery-gray rare-earth metal, used in fluorescent lamps, solid-state devices, and as a dopant in materials.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "fluorescent lamps",
+    "solid-state devices",
+    "optical materials"
+  ],
+  "sources": [
+    "monazite",
+    "xenotime"
+  ],
+  "groupNumber": null
+}

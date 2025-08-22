@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 47,
+  "symbol": "Ag",
+  "name": "Silver",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 107.87,
+  "standardState": "solid",
+  "density": {
+    "value": 10.49,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1234.93,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2435,
+    "unit": "K"
+  },
+  "electronegativity": 1.93,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Silver is a soft, white, lustrous metal with the highest electrical conductivity of all metals, used in jewelry and electronics.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "jewelry",
+    "silverware",
+    "electronics"
+  ],
+  "sources": [
+    "argentite",
+    "native silver"
+  ],
+  "groupNumber": 11
+}

@@ -1,0 +1,45 @@
+{
+  "atomicNumber": 6,
+  "symbol": "C",
+  "name": "Carbon",
+  "category": "nonmetal",
+  "period": 2,
+  "block": "p",
+  "atomicMass": 12.011,
+  "standardState": "solid",
+  "density": {
+    "value": 2.267,
+    "conditions": "20°C, 1 atm (graphite)"
+  },
+  "meltingPoint": {
+    "value": 3823,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4098,
+    "unit": "K"
+  },
+  "electronegativity": 2.55,
+  "electronConfiguration": "1s2 2s2 2p2",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Carbon is a nonmetal that forms the basis of all organic chemistry and exists in various allotropes including diamond, graphite, and graphene.",
+  "oxidationStates": [
+    4,
+    2,
+    -4
+  ],
+  "uses": [
+    "steel production",
+    "organic compounds",
+    "diamonds",
+    "carbon fiber"
+  ],
+  "sources": [
+    "coal",
+    "petroleum",
+    "natural gas",
+    "limestone"
+  ],
+  "groupNumber": 14
+}

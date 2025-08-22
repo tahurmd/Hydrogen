@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 41,
+  "symbol": "Nb",
+  "name": "Niobium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 92.906,
+  "standardState": "solid",
+  "density": {
+    "value": 8.57,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2750,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5017,
+    "unit": "K"
+  },
+  "electronegativity": 1.6,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d4",
+  "discoveredBy": "Charles Hatchett",
+  "discoveryYear": 1801,
+  "summary": "Niobium is a soft, gray, ductile metal, used mainly in special steels and superconducting magnets.",
+  "oxidationStates": [
+    5
+  ],
+  "uses": [
+    "superalloys",
+    "superconducting magnets",
+    "special steels"
+  ],
+  "sources": [
+    "columbite",
+    "pyrochlore"
+  ],
+  "groupNumber": 5
+}

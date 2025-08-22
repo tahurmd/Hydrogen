@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 44,
+  "symbol": "Ru",
+  "name": "Ruthenium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 101.07,
+  "standardState": "solid",
+  "density": {
+    "value": 12.45,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2607,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4423,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d7",
+  "discoveredBy": "Karl Ernst Claus",
+  "discoveryYear": 1844,
+  "summary": "Ruthenium is a rare, hard, silvery-white metal used in electrical contacts and as a catalyst.",
+  "oxidationStates": [
+    3,
+    4,
+    8
+  ],
+  "uses": [
+    "electrical contacts",
+    "catalysts",
+    "jewelry alloys"
+  ],
+  "sources": [
+    "platinum ores"
+  ],
+  "groupNumber": 8
+}

@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 35,
+  "symbol": "Br",
+  "name": "Bromine",
+  "category": "halogen",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 79.904,
+  "standardState": "liquid",
+  "density": {
+    "value": 3.1028,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 265.8,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 332,
+    "unit": "K"
+  },
+  "electronegativity": 2.96,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5",
+  "discoveredBy": "Antoine Jérôme Balard",
+  "discoveryYear": 1826,
+  "summary": "Bromine is the only nonmetallic element that is liquid at room temperature, used in flame retardants and photography.",
+  "oxidationStates": [
+    5,
+    1,
+    -1
+  ],
+  "uses": [
+    "flame retardants",
+    "photography chemicals",
+    "water treatment"
+  ],
+  "sources": [
+    "brine pools",
+    "sea water"
+  ],
+  "groupNumber": 17
+}

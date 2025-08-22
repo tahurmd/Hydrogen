@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 63,
+  "symbol": "Eu",
+  "name": "Europium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 151.96,
+  "standardState": "solid",
+  "density": {
+    "value": 5.24,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1099,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1802,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7",
+  "discoveredBy": "Eugène-Anatole Demarçay",
+  "discoveryYear": 1901,
+  "summary": "Europium is a soft, silvery metal, used in phosphorescent and fluorescent materials, especially in TV and LED displays.",
+  "oxidationStates": [
+    3,
+    2
+  ],
+  "uses": [
+    "phosphors (TV, LEDs)",
+    "neutron absorbers",
+    "anti-counterfeiting"
+  ],
+  "sources": [
+    "bastnäsite",
+    "monazite"
+  ],
+  "groupNumber": null
+}

@@ -1,0 +1,45 @@
+{
+  "atomicNumber": 8,
+  "symbol": "O",
+  "name": "Oxygen",
+  "category": "diatomic nonmetal",
+  "period": 2,
+  "block": "p",
+  "atomicMass": 15.999,
+  "standardState": "gas",
+  "density": {
+    "value": 1.429,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 54.36,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 90.2,
+    "unit": "K"
+  },
+  "electronegativity": 3.44,
+  "electronConfiguration": "1s2 2s2 2p4",
+  "discoveredBy": "Carl Wilhelm Scheele and Joseph Priestley",
+  "discoveryYear": 1774,
+  "summary": "Oxygen is a highly reactive nonmetal that is essential for combustion and respiration, making up about 21% of Earth's atmosphere.",
+  "oxidationStates": [
+    -2,
+    -1,
+    1,
+    2
+  ],
+  "uses": [
+    "steel production",
+    "medical oxygen",
+    "rocket fuel oxidizer",
+    "water treatment"
+  ],
+  "sources": [
+    "air separation",
+    "water electrolysis",
+    "photosynthesis"
+  ],
+  "groupNumber": 16
+}

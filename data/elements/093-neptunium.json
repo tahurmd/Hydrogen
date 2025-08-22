@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 93,
+  "symbol": "Np",
+  "name": "Neptunium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 237,
+  "standardState": "solid",
+  "density": {
+    "value": 20.45,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 917,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4175,
+    "unit": "K"
+  },
+  "electronegativity": 1.36,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f4",
+  "discoveredBy": "Edwin McMillan, Philip Abelson",
+  "discoveryYear": 1940,
+  "summary": "Neptunium is a radioactive, silvery metal, intermediate in the transuranium series, used in nuclear research.",
+  "oxidationStates": [
+    5,
+    6,
+    4,
+    3
+  ],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "uranium fuel cycles"
+  ],
+  "groupNumber": null
+}

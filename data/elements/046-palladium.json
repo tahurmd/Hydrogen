@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 46,
+  "symbol": "Pd",
+  "name": "Palladium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 106.42,
+  "standardState": "solid",
+  "density": {
+    "value": 12.023,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1828.05,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3236,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 4d10",
+  "discoveredBy": "William Hyde Wollaston",
+  "discoveryYear": 1803,
+  "summary": "Palladium is a rare, precious white metal, used mostly in catalytic converters, electronics, and jewelry.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "catalytic converters",
+    "electronics",
+    "jewelry"
+  ],
+  "sources": [
+    "nickel-copper ores"
+  ],
+  "groupNumber": 10
+}

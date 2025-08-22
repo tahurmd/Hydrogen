@@ -1,0 +1,43 @@
+{
+  "atomicNumber": 15,
+  "symbol": "P",
+  "name": "Phosphorus",
+  "category": "nonmetal",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 30.974,
+  "standardState": "solid",
+  "density": {
+    "value": 1.823,
+    "conditions": "white phosphorus, 20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 317.3,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 553.7,
+    "unit": "K"
+  },
+  "electronegativity": 2.19,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p3",
+  "discoveredBy": "Hennig Brand",
+  "discoveryYear": 1669,
+  "summary": "Phosphorus is a reactive nonmetal that exists in several allotropes, used primarily in fertilizers, detergents, and safety matches.",
+  "oxidationStates": [
+    5,
+    3,
+    -3
+  ],
+  "uses": [
+    "fertilizers",
+    "matches",
+    "detergents",
+    "pesticides"
+  ],
+  "sources": [
+    "phosphate rock",
+    "apatite"
+  ],
+  "groupNumber": 15
+}

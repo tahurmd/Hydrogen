@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 40,
+  "symbol": "Zr",
+  "name": "Zirconium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 91.224,
+  "standardState": "solid",
+  "density": {
+    "value": 6.52,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2128,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4682,
+    "unit": "K"
+  },
+  "electronegativity": 1.33,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2",
+  "discoveredBy": "Martin Heinrich Klaproth",
+  "discoveryYear": 1789,
+  "summary": "Zirconium is a strong, corrosion-resistant metal used in nuclear reactors and ceramics.",
+  "oxidationStates": [
+    4
+  ],
+  "uses": [
+    "nuclear reactor cladding",
+    "ceramics",
+    "jewelry (cubic zirconia)"
+  ],
+  "sources": [
+    "zircon",
+    "baddeleyite"
+  ],
+  "groupNumber": 4
+}

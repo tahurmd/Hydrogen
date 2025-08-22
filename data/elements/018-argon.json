@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 18,
+  "symbol": "Ar",
+  "name": "Argon",
+  "category": "noble gas",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 39.948,
+  "standardState": "gas",
+  "density": {
+    "value": 1.784,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 83.8,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 87.3,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6",
+  "discoveredBy": "Lord Rayleigh, William Ramsay",
+  "discoveryYear": 1894,
+  "summary": "Argon is a colorless, odorless noble gas, used as an inert shielding in welding, light bulbs, and scientific instruments.",
+  "oxidationStates": [
+    0
+  ],
+  "uses": [
+    "shielding gas in welding",
+    "light bulbs",
+    "double-pane windows"
+  ],
+  "sources": [
+    "fractional distillation of air"
+  ],
+  "groupNumber": 18
+}

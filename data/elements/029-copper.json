@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 29,
+  "symbol": "Cu",
+  "name": "Copper",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 63.546,
+  "standardState": "solid",
+  "density": {
+    "value": 8.96,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1357.77,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2835,
+    "unit": "K"
+  },
+  "electronegativity": 1.9,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s1 3d10",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Copper is a reddish metal, an excellent electrical conductor, used in wiring, coins, and plumbing.",
+  "oxidationStates": [
+    2,
+    1
+  ],
+  "uses": [
+    "electrical wiring",
+    "plumbing",
+    "coins"
+  ],
+  "sources": [
+    "chalcopyrite",
+    "bornite"
+  ],
+  "groupNumber": 11
+}

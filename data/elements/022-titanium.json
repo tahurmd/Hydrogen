@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 22,
+  "symbol": "Ti",
+  "name": "Titanium",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 47.867,
+  "standardState": "solid",
+  "density": {
+    "value": 4.506,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1941,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3560,
+    "unit": "K"
+  },
+  "electronegativity": 1.54,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d2",
+  "discoveredBy": "William Gregor",
+  "discoveryYear": 1791,
+  "summary": "Titanium is a strong, low-density, corrosion-resistant transition metal used in aircraft, medical implants, and pigments.",
+  "oxidationStates": [
+    4,
+    3,
+    2
+  ],
+  "uses": [
+    "aircraft",
+    "biomedical implants",
+    "white pigments"
+  ],
+  "sources": [
+    "rutile",
+    "ilmenite"
+  ],
+  "groupNumber": 4
+}

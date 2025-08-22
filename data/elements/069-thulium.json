@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 69,
+  "symbol": "Tm",
+  "name": "Thulium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 168.93,
+  "standardState": "solid",
+  "density": {
+    "value": 9.32,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1818,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2223,
+    "unit": "K"
+  },
+  "electronegativity": 1.25,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13",
+  "discoveredBy": "Per Teodor Cleve",
+  "discoveryYear": 1879,
+  "summary": "Thulium is a bright, silvery metal, and the least abundant rare earth, used in portable X-ray devices and lasers.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "portable X-ray devices",
+    "lasers",
+    "fiber optics"
+  ],
+  "sources": [
+    "monazite",
+    "xenotime"
+  ],
+  "groupNumber": null
+}

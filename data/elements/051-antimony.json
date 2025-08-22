@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 51,
+  "symbol": "Sb",
+  "name": "Antimony",
+  "category": "metalloid",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 121.76,
+  "standardState": "solid",
+  "density": {
+    "value": 6.697,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 903.78,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1860,
+    "unit": "K"
+  },
+  "electronegativity": 2.05,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Antimony is a lustrous gray metalloid used in flame retardants, batteries, and alloys with lead.",
+  "oxidationStates": [
+    5,
+    3,
+    -3
+  ],
+  "uses": [
+    "flame retardants",
+    "batteries",
+    "lead alloys"
+  ],
+  "sources": [
+    "stibnite"
+  ],
+  "groupNumber": 15
+}

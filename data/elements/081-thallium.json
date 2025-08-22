@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 81,
+  "symbol": "Tl",
+  "name": "Thallium",
+  "category": "post-transition metal",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 204.38,
+  "standardState": "solid",
+  "density": {
+    "value": 11.85,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 577,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1746,
+    "unit": "K"
+  },
+  "electronegativity": 1.62,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1",
+  "discoveredBy": "William Crookes",
+  "discoveryYear": 1861,
+  "summary": "Thallium is a soft, gray post-transition metal, highly toxic, used in electronics, optical systems, and historically in rat poisons.",
+  "oxidationStates": [
+    3,
+    1
+  ],
+  "uses": [
+    "electronics",
+    "optical systems",
+    "rat poison (historical)"
+  ],
+  "sources": [
+    "crookesite",
+    "lorandite"
+  ],
+  "groupNumber": 13
+}

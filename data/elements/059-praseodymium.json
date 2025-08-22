@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 59,
+  "symbol": "Pr",
+  "name": "Praseodymium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 140.91,
+  "standardState": "solid",
+  "density": {
+    "value": 6.77,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1208,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3793,
+    "unit": "K"
+  },
+  "electronegativity": 1.13,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3",
+  "discoveredBy": "Carl Auer von Welsbach",
+  "discoveryYear": 1885,
+  "summary": "Praseodymium is a soft, silvery metal, used in high-strength glass, magnets, and coloring ceramics.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "glass coloring",
+    "magnets",
+    "carbon arc lights"
+  ],
+  "sources": [
+    "monazite",
+    "bastnäsite"
+  ],
+  "groupNumber": null
+}

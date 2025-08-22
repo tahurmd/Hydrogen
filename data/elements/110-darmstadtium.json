@@ -1,0 +1,26 @@
+{
+  "atomicNumber": 110,
+  "symbol": "Ds",
+  "name": "Darmstadtium",
+  "category": "unknown, probably transition metal",
+  "period": 7,
+  "block": "d",
+  "atomicMass": 281,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d9",
+  "discoveredBy": "Gesellschaft für Schwerionenforschung",
+  "discoveryYear": 1994,
+  "summary": "Darmstadtium is a synthetic, highly radioactive element, produced in a few atoms for experimental purposes.",
+  "oxidationStates": [],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": 10
+}

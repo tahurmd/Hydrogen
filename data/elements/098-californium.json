@@ -1,0 +1,35 @@
+{
+  "atomicNumber": 98,
+  "symbol": "Cf",
+  "name": "Californium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 251,
+  "standardState": "solid",
+  "density": {
+    "value": 15.1,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1173,
+    "unit": "K"
+  },
+  "boilingPoint": null,
+  "electronegativity": 1.3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f10",
+  "discoveredBy": "Stanley G. Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn T. Seaborg",
+  "discoveryYear": 1950,
+  "summary": "Californium is a radioactive, synthetic metal, used as a neutron source in scientific research and industry.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "neutron source",
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": null
+}

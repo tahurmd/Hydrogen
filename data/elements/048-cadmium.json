@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 48,
+  "symbol": "Cd",
+  "name": "Cadmium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 112.41,
+  "standardState": "solid",
+  "density": {
+    "value": 8.65,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 594.22,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1040,
+    "unit": "K"
+  },
+  "electronegativity": 1.69,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10",
+  "discoveredBy": "Friedrich Stromeyer",
+  "discoveryYear": 1817,
+  "summary": "Cadmium is a soft, bluish-white metal, mainly used in rechargeable batteries, pigments, and coatings. It is highly toxic.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "rechargeable batteries",
+    "pigments",
+    "coatings"
+  ],
+  "sources": [
+    "greenockite",
+    "zinc ores"
+  ],
+  "groupNumber": 12
+}

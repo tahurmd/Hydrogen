@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 19,
+  "symbol": "K",
+  "name": "Potassium",
+  "category": "alkali metal",
+  "period": 4,
+  "block": "s",
+  "atomicMass": 39.098,
+  "standardState": "solid",
+  "density": {
+    "value": 0.862,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 336.53,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1032,
+    "unit": "K"
+  },
+  "electronegativity": 0.82,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s1",
+  "discoveredBy": "Humphry Davy",
+  "discoveryYear": 1807,
+  "summary": "Potassium is a very soft, silvery metal essential for life, widely used in fertilizers, soaps, and fireworks.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "fertilizers",
+    "fireworks",
+    "soap",
+    "glass"
+  ],
+  "sources": [
+    "sylvite",
+    "carnallite"
+  ],
+  "groupNumber": 1
+}

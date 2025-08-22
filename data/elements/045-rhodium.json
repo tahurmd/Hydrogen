@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 45,
+  "symbol": "Rh",
+  "name": "Rhodium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 102.91,
+  "standardState": "solid",
+  "density": {
+    "value": 12.41,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2237,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3968,
+    "unit": "K"
+  },
+  "electronegativity": 2.28,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d8",
+  "discoveredBy": "William Hyde Wollaston",
+  "discoveryYear": 1803,
+  "summary": "Rhodium is a rare, silvery-white hard metal, most commonly used as a catalyst in automotive catalytic converters.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "catalytic converters",
+    "jewelry plating",
+    "electrical contacts"
+  ],
+  "sources": [
+    "platinum ores"
+  ],
+  "groupNumber": 9
+}

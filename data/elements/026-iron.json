@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 26,
+  "symbol": "Fe",
+  "name": "Iron",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 55.845,
+  "standardState": "solid",
+  "density": {
+    "value": 7.874,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1811,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3134,
+    "unit": "K"
+  },
+  "electronegativity": 1.83,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Iron is the most widely used metal, a major component of steel and critical for biology in hemoglobin.",
+  "oxidationStates": [
+    3,
+    2
+  ],
+  "uses": [
+    "steel",
+    "machinery",
+    "hemoglobin"
+  ],
+  "sources": [
+    "hematite",
+    "magnetite"
+  ],
+  "groupNumber": 8
+}

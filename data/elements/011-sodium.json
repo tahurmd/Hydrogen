@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 11,
+  "symbol": "Na",
+  "name": "Sodium",
+  "category": "alkali metal",
+  "period": 3,
+  "block": "s",
+  "atomicMass": 22.99,
+  "standardState": "solid",
+  "density": {
+    "value": 0.968,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 370.944,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1156.09,
+    "unit": "K"
+  },
+  "electronegativity": 0.93,
+  "electronConfiguration": "1s2 2s2 2p6 3s1",
+  "discoveredBy": "Humphry Davy",
+  "discoveryYear": 1807,
+  "summary": "Sodium is a soft, silvery-white, reactive metal found in table salt and used in street lighting and as a heat exchanger.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "table salt",
+    "street lights",
+    "heat exchangers"
+  ],
+  "sources": [
+    "rock salt (halite)",
+    "sea water"
+  ],
+  "groupNumber": 1
+}

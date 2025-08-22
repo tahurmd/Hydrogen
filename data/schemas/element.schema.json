@@ -1,0 +1,77 @@
+{
+  "title": "Element",
+  "type": "object",
+  "properties": {
+    "atomicNumber": { "type": "integer" },
+    "symbol": { "type": "string" },
+    "name": { "type": "string" },
+    "category": { "type": "string" },
+    "groupNumber": { "type": ["integer", "null"] },
+    "period": { "type": "integer" },
+    "block": { "type": "string" },
+    "atomicMass": { "type": ["number", "null"] },
+    "standardState": { "type": "string" },
+    "density": {
+      "type": ["object", "null"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "conditions": { "type": ["string", "null"] }
+      },
+      "required": []
+    },
+    "meltingPoint": {
+      "type": ["object", "null"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "unit": { "type": ["string", "null"] }
+      },
+      "required": []
+    },
+    "boilingPoint": {
+      "type": ["object", "null"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "unit": { "type": ["string", "null"] }
+      },
+      "required": []
+    },
+    "electronegativity": { "type": ["number", "null"] },
+    "electronConfiguration": { "type": "string" },
+    "oxidationStates": {
+      "type": ["array", "null"],
+      "items": { "type": "integer" }
+    },
+    "ionizationEnergy": {
+      "type": ["object", "null"],
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "unit": { "type": ["string", "null"] }
+      },
+      "required": []
+    },
+    "discoveredBy": { "type": "string" },
+    "discoveryYear": { "type": ["integer", "null"] },
+    "summary": { "type": "string" },
+    "uses": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    },
+    "attribution": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "atomicNumber",
+    "symbol",
+    "name",
+    "category",
+    "period",
+    "block"
+  ],
+  "additionalProperties": false
+}

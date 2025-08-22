@@ -1,0 +1,43 @@
+{
+  "atomicNumber": 54,
+  "symbol": "Xe",
+  "name": "Xenon",
+  "category": "noble gas",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 131.29,
+  "standardState": "gas",
+  "density": {
+    "value": 5.894,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 161.4,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 165.1,
+    "unit": "K"
+  },
+  "electronegativity": 2.6,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6",
+  "discoveredBy": "William Ramsay, Morris Travers",
+  "discoveryYear": 1898,
+  "summary": "Xenon is a colorless, heavy noble gas used in high-intensity lamps, general anesthesia, and space propulsion.",
+  "oxidationStates": [
+    0,
+    2,
+    4,
+    6,
+    8
+  ],
+  "uses": [
+    "high-intensity lamps",
+    "anesthetic",
+    "ion propulsion"
+  ],
+  "sources": [
+    "air separation"
+  ],
+  "groupNumber": 18
+}

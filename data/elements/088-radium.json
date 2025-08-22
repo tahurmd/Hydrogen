@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 88,
+  "symbol": "Ra",
+  "name": "Radium",
+  "category": "alkaline earth metal",
+  "period": 7,
+  "block": "s",
+  "atomicMass": 226,
+  "standardState": "solid",
+  "density": {
+    "value": 5.5,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 973,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1413,
+    "unit": "K"
+  },
+  "electronegativity": 0.9,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
+  "discoveredBy": "Marie Curie, Pierre Curie",
+  "discoveryYear": 1898,
+  "summary": "Radium is a highly radioactive alkaline earth metal, formerly used in luminous paints and cancer therapy.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "cancer therapy (historical)",
+    "luminous paints (historical)"
+  ],
+  "sources": [
+    "uranium ores"
+  ],
+  "groupNumber": 2
+}

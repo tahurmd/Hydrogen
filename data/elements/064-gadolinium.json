@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 64,
+  "symbol": "Gd",
+  "name": "Gadolinium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 157.25,
+  "standardState": "solid",
+  "density": {
+    "value": 7.9,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1585,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3273,
+    "unit": "K"
+  },
+  "electronegativity": 1.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d1",
+  "discoveredBy": "Jean Charles Galissard de Marignac",
+  "discoveryYear": 1880,
+  "summary": "Gadolinium is a ductile, silvery metal known for its magnetic properties, important in MRI contrast agents and magnets.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "MRI contrast agents",
+    "magnets",
+    "neutron shields"
+  ],
+  "sources": [
+    "monazite",
+    "bastnäsite"
+  ],
+  "groupNumber": null
+}

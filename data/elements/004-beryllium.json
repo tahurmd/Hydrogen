@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 4,
+  "symbol": "Be",
+  "name": "Beryllium",
+  "category": "alkaline earth metal",
+  "period": 2,
+  "block": "s",
+  "atomicMass": 9.0122,
+  "standardState": "solid",
+  "density": {
+    "value": 1.85,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1560,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2742,
+    "unit": "K"
+  },
+  "electronegativity": 1.57,
+  "electronConfiguration": "1s2 2s2",
+  "discoveredBy": "Louis-Nicolas Vauquelin",
+  "discoveryYear": 1798,
+  "summary": "Beryllium is a lightweight, steel-gray metal that is highly toxic and is used in aerospace applications and nuclear reactors.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "aerospace alloys",
+    "nuclear reactors",
+    "X-ray windows"
+  ],
+  "sources": [
+    "beryl mineral",
+    "bertrandite mineral"
+  ],
+  "groupNumber": 2
+}

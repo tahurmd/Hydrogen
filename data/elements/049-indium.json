@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 49,
+  "symbol": "In",
+  "name": "Indium",
+  "category": "post-transition metal",
+  "period": 5,
+  "block": "p",
+  "atomicMass": 114.82,
+  "standardState": "solid",
+  "density": {
+    "value": 7.31,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 429.75,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2345,
+    "unit": "K"
+  },
+  "electronegativity": 1.78,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1",
+  "discoveredBy": "Ferdinand Reich, Hieronymous Theodor Richter",
+  "discoveryYear": 1863,
+  "summary": "Indium is a very soft, malleable metal, used in touchscreens, solar panels, and low melting alloys.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "touchscreens (ITO)",
+    "solar panels",
+    "low-melt alloys"
+  ],
+  "sources": [
+    "sphalerite",
+    "polymetallic ores"
+  ],
+  "groupNumber": 13
+}

@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 71,
+  "symbol": "Lu",
+  "name": "Lutetium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 174.97,
+  "standardState": "solid",
+  "density": {
+    "value": 9.84,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1936,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3675,
+    "unit": "K"
+  },
+  "electronegativity": 1.27,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d1",
+  "discoveredBy": "Georges Urbain, Charles James, Carl Auer von Welsbach",
+  "discoveryYear": 1907,
+  "summary": "Lutetium is a silvery white, hard, dense rare-earth metal, used in PET scanners, catalysts, and LED phosphors.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "PET scanners",
+    "catalysts",
+    "LED phosphors"
+  ],
+  "sources": [
+    "xenotime",
+    "monazite"
+  ],
+  "groupNumber": null
+}

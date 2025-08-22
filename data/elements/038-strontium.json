@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 38,
+  "symbol": "Sr",
+  "name": "Strontium",
+  "category": "alkaline earth metal",
+  "period": 5,
+  "block": "s",
+  "atomicMass": 87.62,
+  "standardState": "solid",
+  "density": {
+    "value": 2.64,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1050,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1655,
+    "unit": "K"
+  },
+  "electronegativity": 0.95,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2",
+  "discoveredBy": "Adair Crawford",
+  "discoveryYear": 1790,
+  "summary": "Strontium is a soft, silvery metal used in fireworks, ferrite magnets, and medical imaging.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "fireworks",
+    "ferrite magnets",
+    "medical imaging"
+  ],
+  "sources": [
+    "strontianite",
+    "celestite"
+  ],
+  "groupNumber": 2
+}

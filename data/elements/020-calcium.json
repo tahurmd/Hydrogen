@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 20,
+  "symbol": "Ca",
+  "name": "Calcium",
+  "category": "alkaline earth metal",
+  "period": 4,
+  "block": "s",
+  "atomicMass": 40.078,
+  "standardState": "solid",
+  "density": {
+    "value": 1.55,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1115,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 1757,
+    "unit": "K"
+  },
+  "electronegativity": 1,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2",
+  "discoveredBy": "Humphry Davy",
+  "discoveryYear": 1808,
+  "summary": "Calcium is a silvery, moderately hard metal vital for bones and teeth and used in cement, steelmaking, and cheese production.",
+  "oxidationStates": [
+    2
+  ],
+  "uses": [
+    "construction cement",
+    "steel making",
+    "cheese production"
+  ],
+  "sources": [
+    "limestone",
+    "gypsum",
+    "dolomite"
+  ],
+  "groupNumber": 2
+}

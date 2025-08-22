@@ -1,0 +1,45 @@
+{
+  "atomicNumber": 17,
+  "symbol": "Cl",
+  "name": "Chlorine",
+  "category": "halogen",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 35.45,
+  "standardState": "gas",
+  "density": {
+    "value": 3.214,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 171.6,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 239.11,
+    "unit": "K"
+  },
+  "electronegativity": 3.16,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p5",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "discoveryYear": 1774,
+  "summary": "Chlorine is a greenish-yellow gas and powerful oxidizer, critical in disinfection and bleaching.",
+  "oxidationStates": [
+    7,
+    5,
+    3,
+    1,
+    -1
+  ],
+  "uses": [
+    "water disinfection",
+    "PVC production",
+    "bleach",
+    "pesticides"
+  ],
+  "sources": [
+    "rock salt (halite)",
+    "seawater"
+  ],
+  "groupNumber": 17
+}

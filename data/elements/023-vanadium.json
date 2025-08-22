@@ -1,0 +1,43 @@
+{
+  "atomicNumber": 23,
+  "symbol": "V",
+  "name": "Vanadium",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 50.942,
+  "standardState": "solid",
+  "density": {
+    "value": 6.11,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2183,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3680,
+    "unit": "K"
+  },
+  "electronegativity": 1.63,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d3",
+  "discoveredBy": "Andrés Manuel del Río",
+  "discoveryYear": 1801,
+  "summary": "Vanadium is a hard, silvery-grey metal used to strengthen steel and in redox flow batteries.",
+  "oxidationStates": [
+    5,
+    4,
+    3,
+    2
+  ],
+  "uses": [
+    "high-strength steel",
+    "redox flow batteries",
+    "catalysts"
+  ],
+  "sources": [
+    "vanadinite",
+    "magnetite"
+  ],
+  "groupNumber": 5
+}

@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 60,
+  "symbol": "Nd",
+  "name": "Neodymium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 144.24,
+  "standardState": "solid",
+  "density": {
+    "value": 7.01,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1297,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3347,
+    "unit": "K"
+  },
+  "electronegativity": 1.14,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4",
+  "discoveredBy": "Carl Auer von Welsbach",
+  "discoveryYear": 1885,
+  "summary": "Neodymium is a rare earth metal, crucial for strong permanent magnets, lasers, and glass coloring.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "permanent magnets",
+    "lasers",
+    "glass coloring"
+  ],
+  "sources": [
+    "monazite",
+    "bastnäsite"
+  ],
+  "groupNumber": null
+}

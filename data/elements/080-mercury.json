@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 80,
+  "symbol": "Hg",
+  "name": "Mercury",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 200.59,
+  "standardState": "liquid",
+  "density": {
+    "value": 13.534,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 234.32,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 629.88,
+    "unit": "K"
+  },
+  "electronegativity": 2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Mercury, the only liquid metal at room temperature, is toxic and used in thermometers, barometers, and fluorescent lamps.",
+  "oxidationStates": [
+    2,
+    1
+  ],
+  "uses": [
+    "thermometers",
+    "barometers",
+    "fluorescent lamps"
+  ],
+  "sources": [
+    "cinnabar"
+  ],
+  "groupNumber": 12
+}

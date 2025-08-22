@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 57,
+  "symbol": "La",
+  "name": "Lanthanum",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 138.91,
+  "standardState": "solid",
+  "density": {
+    "value": 6.15,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1193,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3737,
+    "unit": "K"
+  },
+  "electronegativity": 1.1,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 5d1",
+  "discoveredBy": "Carl Gustaf Mosander",
+  "discoveryYear": 1839,
+  "summary": "Lanthanum is a soft, ductile metal and the first in the lanthanide series, used in optics and rechargeable batteries.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "camera lenses",
+    "batteries",
+    "catalysts"
+  ],
+  "sources": [
+    "monazite",
+    "bastnäsite"
+  ],
+  "groupNumber": null
+}

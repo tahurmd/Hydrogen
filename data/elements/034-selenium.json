@@ -1,0 +1,43 @@
+{
+  "atomicNumber": 34,
+  "symbol": "Se",
+  "name": "Selenium",
+  "category": "nonmetal",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 78.971,
+  "standardState": "solid",
+  "density": {
+    "value": 4.809,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 494,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 958,
+    "unit": "K"
+  },
+  "electronegativity": 2.55,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4",
+  "discoveredBy": "Jöns Jacob Berzelius",
+  "discoveryYear": 1817,
+  "summary": "Selenium is a nonmetal with photovoltaic properties, used in glassmaking, photocopiers, and as a dietary supplement.",
+  "oxidationStates": [
+    6,
+    4,
+    2,
+    -2
+  ],
+  "uses": [
+    "glassmaking",
+    "photocopiers",
+    "dietary supplements"
+  ],
+  "sources": [
+    "copper ores",
+    "selenides"
+  ],
+  "groupNumber": 16
+}

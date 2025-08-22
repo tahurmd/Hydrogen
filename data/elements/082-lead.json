@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 82,
+  "symbol": "Pb",
+  "name": "Lead",
+  "category": "post-transition metal",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 207.2,
+  "standardState": "solid",
+  "density": {
+    "value": 11.34,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 600.61,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2022,
+    "unit": "K"
+  },
+  "electronegativity": 2.33,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Lead is a soft, heavy, malleable metal, used in batteries, shields, and pipes, though toxicity restricts its use.",
+  "oxidationStates": [
+    2,
+    4
+  ],
+  "uses": [
+    "batteries",
+    "radiation shields",
+    "pipes (historical)"
+  ],
+  "sources": [
+    "galena"
+  ],
+  "groupNumber": 14
+}

@@ -1,0 +1,40 @@
+{
+  "atomicNumber": 43,
+  "symbol": "Tc",
+  "name": "Technetium",
+  "category": "transition metal",
+  "period": 5,
+  "block": "d",
+  "atomicMass": 98,
+  "standardState": "solid",
+  "density": {
+    "value": 11,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2430,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4538,
+    "unit": "K"
+  },
+  "electronegativity": 1.9,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5",
+  "discoveredBy": "Carlo Perrier, Emilio Segrè",
+  "discoveryYear": 1937,
+  "summary": "Technetium is a radioactive, silver-gray metal, used in medical imaging and research.",
+  "oxidationStates": [
+    7,
+    4
+  ],
+  "uses": [
+    "medical radioactive tracer",
+    "research"
+  ],
+  "sources": [
+    "synthetic (nuclear reactors)",
+    "uranium ores (trace amounts)"
+  ],
+  "groupNumber": 7
+}

@@ -1,0 +1,9 @@
+name = "hydrogen"
+main = "worker/src/index.js"
+compatibility_date = "2025-08-20"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hydrogen-db"
+database_id = "aff20bca-7b24-491a-93ac-f37456595238"
+

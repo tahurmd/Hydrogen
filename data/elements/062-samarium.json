@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 62,
+  "symbol": "Sm",
+  "name": "Samarium",
+  "category": "lanthanide",
+  "period": 6,
+  "block": "f",
+  "atomicMass": 150.36,
+  "standardState": "solid",
+  "density": {
+    "value": 7.52,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1345,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 2067,
+    "unit": "K"
+  },
+  "electronegativity": 1.17,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6",
+  "discoveredBy": "Paul-Émile Lecoq de Boisbaudran",
+  "discoveryYear": 1879,
+  "summary": "Samarium is a moderately hard rare-earth metal, used in powerful magnets, lasers, and neutron absorbers.",
+  "oxidationStates": [
+    3,
+    2
+  ],
+  "uses": [
+    "magnets",
+    "lasers",
+    "reactor neutron absorber"
+  ],
+  "sources": [
+    "monazite",
+    "bastnäsite"
+  ],
+  "groupNumber": null
+}

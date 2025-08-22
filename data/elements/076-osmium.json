@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 76,
+  "symbol": "Os",
+  "name": "Osmium",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 190.23,
+  "standardState": "solid",
+  "density": {
+    "value": 22.59,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 3306,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 5285,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d6",
+  "discoveredBy": "Smithson Tennant",
+  "discoveryYear": 1803,
+  "summary": "Osmium is the densest element, used in fountain pen nibs, electrical contacts, and as a catalyst.",
+  "oxidationStates": [
+    4,
+    6,
+    8
+  ],
+  "uses": [
+    "pen nibs",
+    "electrical contacts",
+    "catalysts"
+  ],
+  "sources": [
+    "platinum ores"
+  ],
+  "groupNumber": 8
+}

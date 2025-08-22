@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 55,
+  "symbol": "Cs",
+  "name": "Cesium",
+  "category": "alkali metal",
+  "period": 6,
+  "block": "s",
+  "atomicMass": 132.91,
+  "standardState": "solid",
+  "density": {
+    "value": 1.93,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 301.59,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 944,
+    "unit": "K"
+  },
+  "electronegativity": 0.79,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
+  "discoveredBy": "Robert Bunsen, Gustav Kirchhoff",
+  "discoveryYear": 1860,
+  "summary": "Cesium is a soft, gold-colored metal, used in atomic clocks and as a getter in vacuum tubes.",
+  "oxidationStates": [
+    1
+  ],
+  "uses": [
+    "atomic clocks",
+    "vacuum tubes",
+    "drilling fluids"
+  ],
+  "sources": [
+    "pollucite"
+  ],
+  "groupNumber": 1
+}

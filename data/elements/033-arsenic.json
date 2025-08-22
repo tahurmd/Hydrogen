@@ -1,0 +1,39 @@
+{
+  "atomicNumber": 33,
+  "symbol": "As",
+  "name": "Arsenic",
+  "category": "metalloid",
+  "period": 4,
+  "block": "p",
+  "atomicMass": 74.922,
+  "standardState": "solid",
+  "density": {
+    "value": 5.776,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1090,
+    "unit": "K"
+  },
+  "boilingPoint": null,
+  "electronegativity": 2.18,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3",
+  "discoveredBy": "Albertus Magnus",
+  "discoveryYear": 1250,
+  "summary": "Arsenic is a toxic metalloid, used historically in pesticides and wood preservatives, and in semiconductors.",
+  "oxidationStates": [
+    5,
+    3,
+    -3
+  ],
+  "uses": [
+    "semiconductors",
+    "wood preservatives",
+    "pesticides"
+  ],
+  "sources": [
+    "arsenopyrite",
+    "orpiment"
+  ],
+  "groupNumber": 15
+}

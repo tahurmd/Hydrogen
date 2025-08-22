@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 85,
+  "symbol": "At",
+  "name": "Astatine",
+  "category": "halogen",
+  "period": 6,
+  "block": "p",
+  "atomicMass": 210,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": {
+    "value": 575,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 610,
+    "unit": "K"
+  },
+  "electronegativity": 2.2,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5",
+  "discoveredBy": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè",
+  "discoveryYear": 1940,
+  "summary": "Astatine is a rare, radioactive halogen, likely a metallic-looking solid, with few practical applications due to its scarcity.",
+  "oxidationStates": [
+    1,
+    -1,
+    7,
+    5,
+    3
+  ],
+  "uses": [
+    "cancer therapy (experimental)"
+  ],
+  "sources": [
+    "synthetic (nuclear reactors)"
+  ],
+  "groupNumber": 17
+}

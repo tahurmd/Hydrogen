@@ -1,0 +1,48 @@
+{
+  "atomicNumber": 7,
+  "symbol": "N",
+  "name": "Nitrogen",
+  "category": "diatomic nonmetal",
+  "period": 2,
+  "block": "p",
+  "atomicMass": 14.007,
+  "standardState": "gas",
+  "density": {
+    "value": 1.2506,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 63.15,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 77.36,
+    "unit": "K"
+  },
+  "electronegativity": 3.04,
+  "electronConfiguration": "1s2 2s2 2p3",
+  "discoveredBy": "Daniel Rutherford",
+  "discoveryYear": 1772,
+  "summary": "Nitrogen is a colorless, odorless gas that makes up about 78% of Earth's atmosphere and is essential for all living organisms.",
+  "oxidationStates": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    -1,
+    -2,
+    -3
+  ],
+  "uses": [
+    "ammonia production",
+    "fertilizers",
+    "explosives",
+    "liquid nitrogen coolant"
+  ],
+  "sources": [
+    "air separation",
+    "ammonia synthesis"
+  ],
+  "groupNumber": 15
+}

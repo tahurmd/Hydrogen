@@ -1,0 +1,42 @@
+{
+  "atomicNumber": 9,
+  "symbol": "F",
+  "name": "Fluorine",
+  "category": "diatomic nonmetal",
+  "period": 2,
+  "block": "p",
+  "atomicMass": 18.998,
+  "standardState": "gas",
+  "density": {
+    "value": 1.696,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 53.53,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 85.03,
+    "unit": "K"
+  },
+  "electronegativity": 3.98,
+  "electronConfiguration": "1s2 2s2 2p5",
+  "discoveredBy": "Henri Moissan",
+  "discoveryYear": 1886,
+  "summary": "Fluorine is the most electronegative and reactive element, forming compounds with nearly all other elements including the noble gases.",
+  "oxidationStates": [
+    -1
+  ],
+  "uses": [
+    "toothpaste fluoride",
+    "Teflon production",
+    "uranium enrichment",
+    "refrigerants"
+  ],
+  "sources": [
+    "fluorite",
+    "cryolite",
+    "fluorapatite"
+  ],
+  "groupNumber": 17
+}

@@ -1,0 +1,31 @@
+{
+  "atomicNumber": 103,
+  "symbol": "Lr",
+  "name": "Lawrencium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 266,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": {
+    "value": 1900,
+    "unit": "K"
+  },
+  "boilingPoint": null,
+  "electronegativity": 1.3,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 7p1",
+  "discoveredBy": "Albert Ghiorso, et al.",
+  "discoveryYear": 1961,
+  "summary": "Lawrencium is a synthetic, radioactive element, the last of the actinide series, made in particle accelerators.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": null
+}

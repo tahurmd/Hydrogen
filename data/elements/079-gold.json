@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 79,
+  "symbol": "Au",
+  "name": "Gold",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 196.97,
+  "standardState": "solid",
+  "density": {
+    "value": 19.32,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1337.33,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3129,
+    "unit": "K"
+  },
+  "electronegativity": 2.54,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d10",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Gold is a highly valuable, dense, corrosion-resistant metal, revered for jewelry and an international store of wealth.",
+  "oxidationStates": [
+    3,
+    1
+  ],
+  "uses": [
+    "jewelry",
+    "money",
+    "electronics"
+  ],
+  "sources": [
+    "native gold",
+    "alluvial deposits"
+  ],
+  "groupNumber": 11
+}

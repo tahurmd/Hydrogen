@@ -1,0 +1,26 @@
+{
+  "atomicNumber": 113,
+  "symbol": "Nh",
+  "name": "Nihonium",
+  "category": "unknown, probably post-transition metal",
+  "period": 7,
+  "block": "p",
+  "atomicMass": 286,
+  "standardState": "solid",
+  "density": null,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronegativity": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p1",
+  "discoveredBy": "RIKEN (Japan)",
+  "discoveryYear": 2004,
+  "summary": "Nihonium is a synthetic, radioactive element, produced in particle accelerators and has no practical applications.",
+  "oxidationStates": [],
+  "uses": [
+    "scientific research"
+  ],
+  "sources": [
+    "synthetic"
+  ],
+  "groupNumber": 13
+}

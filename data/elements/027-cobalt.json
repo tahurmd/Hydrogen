@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 27,
+  "symbol": "Co",
+  "name": "Cobalt",
+  "category": "transition metal",
+  "period": 4,
+  "block": "d",
+  "atomicMass": 58.933,
+  "standardState": "solid",
+  "density": {
+    "value": 8.86,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1768,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3200,
+    "unit": "K"
+  },
+  "electronegativity": 1.88,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d7",
+  "discoveredBy": "Georg Brandt",
+  "discoveryYear": 1735,
+  "summary": "Cobalt is a hard, magnetic metal, used in producing strong alloys, batteries, and blue pigments.",
+  "oxidationStates": [
+    3,
+    2
+  ],
+  "uses": [
+    "superalloys",
+    "batteries",
+    "blue glass"
+  ],
+  "sources": [
+    "cobaltite",
+    "erythrite"
+  ],
+  "groupNumber": 9
+}

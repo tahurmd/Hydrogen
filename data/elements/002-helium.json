@@ -1,0 +1,36 @@
+{
+  "atomicNumber": 2,
+  "symbol": "He",
+  "name": "Helium",
+  "category": "noble gas",
+  "period": 1,
+  "block": "s",
+  "atomicMass": 4.0026,
+  "standardState": "gas",
+  "density": {
+    "value": 0.1786,
+    "conditions": "0°C, 1 atm"
+  },
+  "meltingPoint": null,
+  "boilingPoint": {
+    "value": 4.222,
+    "unit": "K"
+  },
+  "electronegativity": null,
+  "electronConfiguration": "1s2",
+  "discoveredBy": "Pierre Janssen, Norman Lockyer",
+  "discoveryYear": 1868,
+  "summary": "Helium is a colorless, odorless, tasteless, non-toxic, inert monoatomic gas and the second lightest element, used in balloons and as a coolant.",
+  "oxidationStates": [
+    0
+  ],
+  "uses": [
+    "balloons",
+    "cryogenics",
+    "shielding gas in welding"
+  ],
+  "sources": [
+    "natural gas fields"
+  ],
+  "groupNumber": 18
+}

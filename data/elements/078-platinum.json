@@ -1,0 +1,41 @@
+{
+  "atomicNumber": 78,
+  "symbol": "Pt",
+  "name": "Platinum",
+  "category": "transition metal",
+  "period": 6,
+  "block": "d",
+  "atomicMass": 195.08,
+  "standardState": "solid",
+  "density": {
+    "value": 21.45,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 2041.4,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 4098,
+    "unit": "K"
+  },
+  "electronegativity": 2.28,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d9",
+  "discoveredBy": "Antonio de Ulloa",
+  "discoveryYear": 1735,
+  "summary": "Platinum is a precious, grayish-white, corrosion-resistant metal used in catalytic converters, jewelry, and instruments.",
+  "oxidationStates": [
+    2,
+    4
+  ],
+  "uses": [
+    "catalytic converters",
+    "jewelry",
+    "laboratory equipment"
+  ],
+  "sources": [
+    "platinum ores",
+    "alluvial deposits"
+  ],
+  "groupNumber": 10
+}

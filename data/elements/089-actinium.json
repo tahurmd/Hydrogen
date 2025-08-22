@@ -1,0 +1,38 @@
+{
+  "atomicNumber": 89,
+  "symbol": "Ac",
+  "name": "Actinium",
+  "category": "actinide",
+  "period": 7,
+  "block": "f",
+  "atomicMass": 227,
+  "standardState": "solid",
+  "density": {
+    "value": 10.07,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 1323,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 3471,
+    "unit": "K"
+  },
+  "electronegativity": 1.1,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1",
+  "discoveredBy": "Friedrich Oskar Giesel",
+  "discoveryYear": 1902,
+  "summary": "Actinium is a soft, silvery-white, radioactive metal, used as a neutron source and in cancer therapy research.",
+  "oxidationStates": [
+    3
+  ],
+  "uses": [
+    "neutron source",
+    "radiotherapy (research)"
+  ],
+  "sources": [
+    "uranium ores"
+  ],
+  "groupNumber": null
+}

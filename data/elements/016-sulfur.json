@@ -1,0 +1,45 @@
+{
+  "atomicNumber": 16,
+  "symbol": "S",
+  "name": "Sulfur",
+  "category": "nonmetal",
+  "period": 3,
+  "block": "p",
+  "atomicMass": 32.06,
+  "standardState": "solid",
+  "density": {
+    "value": 2.067,
+    "conditions": "20°C, 1 atm"
+  },
+  "meltingPoint": {
+    "value": 388.36,
+    "unit": "K"
+  },
+  "boilingPoint": {
+    "value": 717.87,
+    "unit": "K"
+  },
+  "electronegativity": 2.58,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p4",
+  "discoveredBy": "Ancient civilizations",
+  "discoveryYear": null,
+  "summary": "Sulfur is a yellow nonmetal, abundant in nature, used in sulfuric acid production, fertilizers, and vulcanized rubber.",
+  "oxidationStates": [
+    6,
+    4,
+    2,
+    -2
+  ],
+  "uses": [
+    "sulfuric acid",
+    "fertilizers",
+    "vulcanized rubber",
+    "fungicides"
+  ],
+  "sources": [
+    "volcanic deposits",
+    "gypsum",
+    "pyrite"
+  ],
+  "groupNumber": 16
+}
